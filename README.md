@@ -35,10 +35,14 @@ cd distorcao-geometrica
 Estrutura do Projeto
 
 distorcao-geometrica/
-├── index.html       # Estrutura principal da página
-├── styles.css       # Estilos da página
-├── script.js        # Lógica e animação das formas geométricas
-└── README.md        # Documentação do projeto
+├── index.html       
+# Estrutura principal da página
+├── styles.css     
+# Estilos da página
+├── script.js 
+# Lógica e animação das formas geométricas
+└── README.md      
+# Documentação do projeto
 
 Pré-visualização
 
