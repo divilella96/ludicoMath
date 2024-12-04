@@ -25,8 +25,8 @@ Este projeto é uma página interativa que utiliza HTML, CSS e JavaScript para c
 
 2. Acesse a pasta do projeto:
 
-cd distorcao-geometrica
 
+cd distorcao-geometrica
 
 3. Abra o arquivo HTML: Basta abrir o arquivo index.html em um navegador moderno (Google Chrome, Firefox, Edge, etc.).
 
@@ -34,7 +34,7 @@ cd distorcao-geometrica
 
 Estrutura do Projeto
 
-distorcao-geometrica/
+# distorcao-geometrica
 ├── index.html       
 # Estrutura principal da página
 ├── styles.css     
